@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RajaDeepika
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently Working at TCS as Assistant System Engineer and Learning Web Developing on my interest
+- 💞️ I’m looking to collaborate on Development Projects
+- 📫 Wanna reach me? mail to "rdeepika1708@gmail.com"
 
 <!---
 RajaDeepika/RajaDeepika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
